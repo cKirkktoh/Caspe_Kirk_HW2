@@ -38,7 +38,7 @@ Recipe Book allows you to add, view, and manage recipes easily. Simply enter the
 
 ## Screenshots
 
-[Add screenshot(s) of your Recipe Book app here, if available.]
+![Screenshot 1](images/screenshot.png)
 
 ## Credits
 
