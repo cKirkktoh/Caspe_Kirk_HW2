@@ -8,19 +8,23 @@
   <script defer type="module" src="js/main.js"></script>
 </head>
 <body>
-  <h1>Recipe Book</h1>
+  <header>
+    <h1>Recipe Book</h1>
+  </header>
   
-  <div id="recipeForm">
-    <h2>Add a Recipe</h2>
-    <input type="text" id="recipeName" placeholder="Recipe Name">
-    <textarea id="recipeIngredients" placeholder="Ingredients"></textarea>
-    <textarea id="recipeInstructions" placeholder="Instructions"></textarea>
-    <button onclick="addRecipe()">Add Recipe</button>
-  </div>
+  <div class="container">
+    <section id="recipeForm">
+      <h2>Add a Recipe</h2>
+      <input type="text" id="recipeName" placeholder="Recipe Name">
+      <textarea id="recipeIngredients" placeholder="Ingredients"></textarea>
+      <textarea id="recipeInstructions" placeholder="Instructions"></textarea>
+      <button onclick="addRecipe()">Add Recipe</button>
+    </section>
 
-  <div id="recipeList">
-    <h2>Recipes</h2>
-    <ul id="recipes"></ul>
+    <section id="recipeList">
+      <h2>Recipes</h2>
+      <ul id="recipes"></ul>
+    </section>
   </div>
 </body>
 </html>
