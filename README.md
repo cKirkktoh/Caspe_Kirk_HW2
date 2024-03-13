@@ -28,7 +28,6 @@ Recipe Book allows you to add, view, and manage recipes easily. Simply enter the
 - JavaScript
 - ES6 Modules
 - Parcel.js (for bundling modules)
-- GreenSock Animation Platform (optional, for enhanced animations)
 
 ## Project Structure
 
