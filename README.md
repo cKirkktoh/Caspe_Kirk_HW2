@@ -1,4 +1,4 @@
-# Recipe Book
+# Recipe Book by Kirk Caspe
 
 Welcome to Recipe Book, a simple web application where you can manage and store your favorite recipes!
 
@@ -11,7 +11,6 @@ Recipe Book allows you to add, view, and manage recipes easily. Simply enter the
 - Add new recipes with names, ingredients, and instructions.
 - View a list of all added recipes.
 - Clean and intuitive user interface.
-- Responsive design for use on mobile and desktop devices.
 - Modern styling for an attractive appearance.
 
 ## Usage
@@ -44,7 +43,7 @@ Recipe Book allows you to add, view, and manage recipes easily. Simply enter the
 
 ## Credits
 
-This project was created by [Your Name]. It may contain code snippets or design elements inspired by other sources, and credits are given where appropriate.
+This project was created by me Kirk Caspe. It may contain code snippets or design elements inspired by other sources, and credits are given where appropriate.
 
 ## License
 
